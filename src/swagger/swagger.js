@@ -14,7 +14,7 @@ const options = {
         description: 'Development server',
       },
       {
-        url: "https://jingally-server.onrender.com/api",
+        url: "https:/live.onrender.com/api",
         description: "Live Server"
       }
     ],
